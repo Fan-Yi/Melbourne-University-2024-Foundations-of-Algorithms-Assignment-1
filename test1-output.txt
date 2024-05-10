@@ -1,0 +1,32 @@
+Stage 1
+==========
+POIs in Q0: none
+
+Stage 2
+==========
+POIs in Q0: none; No. POI-in-query tests: 0
+POIs in Q1: 11 43 36 14 32; No. POI-in-query tests: 9
+POIs in Q2: 32 15 1 8; No. POI-in-query tests: 7
+POIs in Q3: 12; No. POI-in-query tests: 9
+POIs in Q4: none; No. POI-in-query tests: 1
+
+Stage 3
+==========
+POI #49 @ (02.1, 04.8), curve value: 0
+POI #45 @ (23.7, 09.7), curve value: 1
+POI #22 @ (09.5, 21.3), curve value: 2
+POI #23 @ (05.4, 19.7), curve value: 2
+POI #30 @ (02.5, 16.9), curve value: 2
+
+Stage 4
+==========
+Q0: [00, 00]; curve values compared: 20 10 3 2 1 0
+POIs in Q0: none; No. POI-in-query tests: 1
+Q1: [18, 57]; curve values compared: 20 10 16 17 18 17
+POIs in Q1: 32 43 36 11 14; No. POI-in-query tests: 23
+Q2: [19, 30]; curve values compared: 20 10 16 17 18
+POIs in Q2: 32 1 8 15; No. POI-in-query tests: 7
+Q3: [59, 63]; curve values compared: 20 42 53 58 63 59
+POIs in Q3: 12; No. POI-in-query tests: 2
+Q4: [06, 06]; curve values compared: 20 10 3 10 7 4
+POIs in Q4: none; No. POI-in-query tests: 0
